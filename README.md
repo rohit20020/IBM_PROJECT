@@ -1,2 +1,21 @@
-# IBM_PROJECT
-Banks and lending institutions need to predict whether a customer will default on a loan. Raw financial datasets often contain missing values, categorical features, and unstructured information. This project focuses on data preparation and feature engineering to improve loan default prediction accuracy.
+## 🚀 Live Demo
+
+Try the LoanGuard AI application here:
+
+**Live Website:** https://ibmproject-yv7higgcxftj2u2dz3ewtb.streamlit.app/
+
+## 🛠️ Technologies Used
+
+* Python
+* Streamlit
+* Pandas and NumPy
+* Scikit-learn
+* Plotly
+* Random Forest
+* Logistic Regression
+
+## 🎯 Project Objective
+
+LoanGuard AI predicts the likelihood of loan default using machine learning. It provides an interactive dashboard for exploring loan data, generating predictions, and comparing model performance.
+
+**Disclaimer:** This project is for educational purposes only. Its predictions should not be used as the sole basis for real lending decisions.
